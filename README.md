@@ -16,6 +16,8 @@
 * [Розділ 7 — Парламентер та Дикуни](chapter_7.md)
 * [Розділ 8 — Фіалки на початку березня](chapter_8.md)
 * [Розділ 9 — Вітер розвертається не до сторони добра](chapter_9.md)
+    * [Додатковий мінірозділ — І лебідь був оповитий лозою](chapter_9.5.md)
+* [Розділ 10 — І засяє Ліра весняним цвітом](chapter_10.md)
 
 ### Додаткові матеріали
 * [Короткий переказ "Ліри Трьох" від Bypip'а](summary__by_Bypip.md)
@@ -33,10 +35,22 @@
 * [Мапа Разінара](bonus_content/art/razinar_map.png)
     * [Ремастер від Bypip'а](bonus_content/art/canonized/razinar_map__by_Bypip.png)
 * Портрети персонажів:
-    * Леорій — [версія 1](bonus_content/art/leoriy_1.jpg), [версія 2](bonus_content/art/leoriy_2.png), [версія 3](bonus_content/art/leoriy_3.png)
-        * [Ремастер версії 3 від Bypip'а](bonus_content/art/canonized/leoriy_3__by_Bypip.png)
-    * Настасья — [версія 1](bonus_content/art/nastasia_1.png), [версія 2](bonus_content/art/nastasia_2.png), [версія 3](bonus_content/art/nastasia_3.png), [версія 4](bonus_content/art/nastasia_4.png)
-    * Влад — [версія 1](bonus_content/art/vlad.png)
+    * Леорій:
+        * [версія 1](bonus_content/art/leoriy_1.jpg)
+        * [версія 2](bonus_content/art/leoriy_2.png)
+        * [версія 3](bonus_content/art/leoriy_3.png)
+            * [Ремастер від Bypip'а](bonus_content/art/canonized/leoriy_3__by_Bypip.png)
+        * [версія 4 — в подобі звіра](bonus_content/art/Leoriy_Werewolf.png)
+    * Настасья:
+        * [версія 1](bonus_content/art/nastasia_1.png)
+        * [версія 2](bonus_content/art/nastasia_2.png)
+        * [версія 3](bonus_content/art/nastasia_3.png)
+        * [версія 4](bonus_content/art/nastasia_4.png)
+    * [Влад](bonus_content/art/vlad.png)
+    * [Невтелен](bonus_content/art/Nevtelen.png)
+    * [Валеріан](bonus_content/art/Valerian.png)
+    * [Басаньйо](bonus_content/art/Bassanio.png)
+    * [Меркарієць (ліворуч) і єретик (праворуч)](bonus_content/art/Mercarian_Heretic.png)
 * [Корабель Невтелена від Bypip'а](bonus_content/art/canonized/elven_ship__by_Bypip.png)
 
 ### Неканонічні твори (фанфіки)
