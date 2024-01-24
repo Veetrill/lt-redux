@@ -9,7 +9,7 @@
     * `./Leoriy_Werewolf.png` — Леорій в подобі звіра;
     * `./Nevtelen.png` — Невтелен;
     * `./Valerian.png` — Валеріан;
-    * `./???.png` — Басаньйо;
+    * `./Bassanio.png` — Басаньйо;
     * `./Mercarian_Heretic.png` — меркарієць та єретик.
 
 ### Зміни форматування
