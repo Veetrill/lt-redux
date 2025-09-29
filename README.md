@@ -1,5 +1,7 @@
 # Ліра Трьох
 
+![Обкладинка](bonus_content/art/book-cover_2.png)
+
 В цьому репозиторії зібрано всі опубліковані на сьогодні розділи книги "Ліра Трьох" авторства Нікіти Філімонова (aka Семен). Також тут зібрано додаткові авторські матеріали (хронології подій сетингу, ілюстрації) та неканонічні фанфіки.
 
 Усі текстові файли подано в форматі Markdown, з відповідним застосованим форматуванням.
@@ -18,45 +20,21 @@
 * [Розділ 9 — Вітер розвертається не до сторони добра](chapter_9.md)
     * [Додатковий мінірозділ — І лебідь був оповитий лозою](chapter_9.5.md)
 * [Розділ 10 — І засяє Ліра весняним цвітом](chapter_10.md)
+* [Розділ 11 — Крізь нетрі до справедливості](chapter_11.md)
 
 ### Додаткові матеріали
+* [Фотоальбом](PICTURES.md)
 * [Короткий переказ "Ліри Трьох" від Bypip'а](summary__by_Bypip.md)
 * [Короткий переказ двох майбутніх книг від Вітриля](future_books__summary__by_Veetrill.md) (написано за [стенограмою](future_books__transcript__by_Veetrill.md))
 * [Історія Сарадинського султанату](bonus_content/sultanate.md)
 * [Хронологія Врадазу](bonus_content/vradaz_chronology.md)
 * [Хронологія Разінару](bonus_content/world_chronology.md)
 
-#### Ілюстації
-* Мапа Хейдендаля
-    * [Cтара версія](bonus_content/art/heidendal_map_alpha.jpg)
-        * [Ремастер від Bypip'а](bonus_content/art/canonized/heidendal_map_alpha__by_Bypip.png)
-    * [Нова версія](bonus_content/art/heidendal_map.png)
-        * [Ремастер від Bypip'а](bonus_content/art/canonized/heidendal_map__by_Bypip.png)
-* [Мапа Разінара](bonus_content/art/razinar_map.png)
-    * [Ремастер від Bypip'а](bonus_content/art/canonized/razinar_map__by_Bypip.png)
-* Портрети персонажів:
-    * Леорій:
-        * [версія 1](bonus_content/art/leoriy_1.jpg)
-        * [версія 2](bonus_content/art/leoriy_2.png)
-        * [версія 3](bonus_content/art/leoriy_3.png)
-            * [Ремастер від Bypip'а](bonus_content/art/canonized/leoriy_3__by_Bypip.png)
-        * [версія 4 — в подобі звіра](bonus_content/art/Leoriy_Werewolf.png)
-    * Настасья:
-        * [версія 1](bonus_content/art/nastasia_1.png)
-        * [версія 2](bonus_content/art/nastasia_2.png)
-        * [версія 3](bonus_content/art/nastasia_3.png)
-        * [версія 4](bonus_content/art/nastasia_4.png)
-    * [Влад](bonus_content/art/vlad.png)
-    * [Невтелен](bonus_content/art/Nevtelen.png)
-    * [Валеріан](bonus_content/art/Valerian.png)
-    * [Басаньйо](bonus_content/art/Bassanio.png)
-    * [Меркарієць (ліворуч) і єретик (праворуч)](bonus_content/art/Mercarian_Heretic.png)
-* [Корабель Невтелена від Bypip'а](bonus_content/art/canonized/elven_ship__by_Bypip.png)
-
 ### Неканонічні твори (фанфіки)
 * Фанфіки Вітриля:
     * [Казка про Павича](fan_fiction/peacock__by_Veetrill.md)
     * [Приквел про Влада](fan_fiction/vlad__by_Veetrill.md)
-    * [Байка Басаньйо про маджонг](fan_fiction/mahjong__by_Veetrill.md)
+    * [Байка Басаньйо про ~~мадж~~ кажіджонг](fan_fiction/kajijong__by_Veetrill.md)
+      * [Леорій та чужоземці Gaiden](fan_fiction/gaiden__by_Veetrill.md)
 * Фанфіки gash0sh'а:
     * [Гітара восьми (незакінчений)](fan_fiction/guitar__by_gash0sh.md)
