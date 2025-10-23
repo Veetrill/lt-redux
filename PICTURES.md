@@ -40,6 +40,7 @@
 * Юліан aka Мирослав aka Пан Галактичний
     * [Версія 1](bonus_content/art/monsieur_galactique_1.png)
     * [Версія 2](bonus_content/art/monsieur_galactique_2.png)
+    * [Версія 3 (вища форма)](bonus_content/art/monsieur_galactique_high-form.png)
 * [Меркарієць (ліворуч) і єретик (праворуч)](bonus_content/art/Mercarian_Heretic.png)
 * Кілімборос
     * [Версія 1](bonus_content/art/Kilimboros_1.png)

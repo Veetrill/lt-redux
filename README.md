@@ -22,8 +22,10 @@
 * [Розділ 10 — І засяє Ліра весняним цвітом](chapter_10.md)
 * [Розділ 11 — Крізь нетрі до справедливості](chapter_11.md)
 
+
+### [Фотоальбом](PICTURES.md)
+
 ### Додаткові матеріали
-* [Фотоальбом](PICTURES.md)
 * [Короткий переказ "Ліри Трьох" від Bypip'а](summary__by_Bypip.md)
 * [Короткий переказ двох майбутніх книг від Вітриля](future_books__summary__by_Veetrill.md) (написано за [стенограмою](future_books__transcript__by_Veetrill.md))
 * [Історія Сарадинського султанату](bonus_content/sultanate.md)
